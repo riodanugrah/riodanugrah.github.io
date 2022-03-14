@@ -87,7 +87,7 @@
     background-color: rgba(34, 49, 52, 0.9);
     position :fixed;
     top: 0;
-    z-index: 10;
+    z-index: 15;
   }
   
   .logo {
