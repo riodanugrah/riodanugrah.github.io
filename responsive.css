@@ -44,7 +44,8 @@
     display:  none;
   }
   
-  .menu-icon {
+  span.menu-icon {
+    /* span ditambahkan */
     display:  block;
   }
   
