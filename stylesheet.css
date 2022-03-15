@@ -117,7 +117,8 @@
     background-color: rgba(255, 255, 255, 0.3);
   }
   
-  .menu-icon {
+/* hanya di perdetail untuk css selector */
+  span.menu-icon {
     color: white;
     float: right;
     font-size: 25px;
